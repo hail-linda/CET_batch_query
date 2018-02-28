@@ -40,3 +40,4 @@ pandas、selenium、unittest、time、re
  - 输出图片至子文件夹下
  - 开发windows下即开即用版本
  - 开发线上运行版本
+ - 开发验证码系统
