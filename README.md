@@ -35,7 +35,7 @@ Author = Linda
 
 ## 使用到的python库
 
-pandas、selenium、unittest、time、re
+pandas、selenium、unittest、time、re、os、tensorflow等
  
 
 
@@ -43,7 +43,17 @@ pandas、selenium、unittest、time、re
 
  - docs
  - 输出文件更改为xls/xlsx
- - 输出图片至子文件夹下
- - 开发windows下即开即用版本
+ - ~~输出图片至子文件夹下~~  (ver2.0解决)
+ - ~~开发windows下即开即用版本~~ （经测试由于需要tensorflow，打包后文件超过1G）
  - 开发线上运行版本
- - 开发验证码系统
+ - ~~开发验证码系统~~  （ver2.0解决，正确率约60%）
+ 
+## 大概的过程
+ 
+ - 读取.xls/.xlsx文件，转码至 .csv
+ - 顺序读入  selenium + firefox 模拟输入姓名与准考证号
+ - 模拟点击验证码输入框，待图片显示 wget 下载图片
+ - 将图片去渐变灰色背景，去红黑网格
+ - tensorflow 识别验证码
+ - 填入识别后结果，若正确记录各项信息，执行下一条
+ - 过程中对成绩查询后结果截图至 screenshot/ 
