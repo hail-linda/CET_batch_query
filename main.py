@@ -11,8 +11,6 @@ if __name__ == '__main__':
     pre.xls_to_csv()
     pre.csv_IE()
 
-
-
     suite = unittest.TestSuite()
 
     tests = [CETBatchQuery("test_CET_batch_query")]

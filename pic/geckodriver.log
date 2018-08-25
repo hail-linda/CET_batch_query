@@ -1,0 +1,186 @@
+1534929699979	geckodriver	INFO	geckodriver 0.21.0
+1534929699983	geckodriver	INFO	Listening on 127.0.0.1:54903
+1534929700987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kbB9OTRQYJ1h"
+1534929702575	Marionette	INFO	Listening on port 33861
+1534929702603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+[Parent 9599, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534944997906	geckodriver	INFO	geckodriver 0.21.0
+1534944997910	geckodriver	INFO	Listening on 127.0.0.1:58215
+1534944998913	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Sxk1094g4vlb"
+1534945000550	Marionette	INFO	Listening on port 36961
+1534945000634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 21119, Chrome_ChildThread] WARNING: pipe error: 断开的管道: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 21019, Gecko_IOThread] WARNING: pipe error (76): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1534945029911	geckodriver	INFO	geckodriver 0.21.0
+1534945029915	geckodriver	INFO	Listening on 127.0.0.1:54169
+1534945030918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2eln7BmJpNrl"
+1534945032430	Marionette	INFO	Listening on port 45395
+1534945032526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+1534990624775	geckodriver	INFO	geckodriver 0.21.0
+1534990624779	geckodriver	INFO	Listening on 127.0.0.1:58295
+1534990625782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Qh8WXaUwLTYg"
+1534990627335	Marionette	INFO	Listening on port 45417
+1534990627395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 29317, Chrome_ChildThread] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 29224, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534992276728	geckodriver	INFO	geckodriver 0.21.0
+1534992276733	geckodriver	INFO	Listening on 127.0.0.1:49153
+1534992277733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UJRQVZ2wiMza"
+1534992279615	Marionette	INFO	Listening on port 43535
+1534992279651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+[Child 11940, Chrome_ChildThread] WARNING: pipe error (18): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1534993973369	geckodriver	INFO	geckodriver 0.21.0
+1534993973373	geckodriver	INFO	Listening on 127.0.0.1:49353
+1534993974380	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7m971ZWe7bnb"
+1534993975839	Marionette	INFO	Listening on port 43801
+1534993975893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+[Parent 15604, Gecko_IOThread] WARNING: pipe error (78): 连接被对方重设: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1534993984962	geckodriver	INFO	geckodriver 0.21.0
+1534993984965	geckodriver	INFO	Listening on 127.0.0.1:49827
+1534993985973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mBRgomVWTaMq"
+1534993987412	Marionette	INFO	Listening on port 39573
+1534993987514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
+JavaScript error: http://cet.neea.edu.cn/cet/js/query.js, line 254: ReferenceError: event is not defined
