@@ -14,7 +14,7 @@ Author = Linda
 使用 [Apache License 2.0](LICENSE) 授权。
 
 ## 性能
-目前预计查询10k条信息大约需要13h
+目前预计查询10k条信息大约需要2h
 
 所以需要大批量查询的同学可以联系我：i@lixinda.me 以在我的服务器上24小时运行
 
